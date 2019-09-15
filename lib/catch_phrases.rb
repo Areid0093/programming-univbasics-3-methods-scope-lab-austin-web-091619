@@ -4,5 +4,6 @@ def mario
 end
 
 def toadstool
+  statis = 
   puts status
 end
